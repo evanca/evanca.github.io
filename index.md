@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/evanca/evanca.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Data Analysis
 
-### Markdown
+*"Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician." (Josh Wills, 2012).*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
+[(Tableau) Airline On-Time Performance Exploration](https://public.tableau.com/profile/evanca#!/vizhome/AirlineOn-TimePerformanceExploration/Story)
+<img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p8_thumbnail.jpg?raw=true"/>
 
-```markdown
-Syntax highlighted code block
+---
+[(Python) Wrangling and Analyzing WeRateDogs Data](https://github.com/evanca/data-analysis_python_weratedogs-wrangling)
+<img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p7_thumbnail.jpg?raw=true"/>
 
-# Header 1
-## Header 2
-### Header 3
+---
+[(Python) eProcurement System Data Scraping Project](https://github.com/evanca/data-analysis_python_eprocurement-system-data-scraping)
+<img src="https://github.com/evanca/evanca.github.io/blob/master/images/eis_thumbnail.jpg?raw=true"/>
 
-- Bulleted
-- List
+---
+[(R) Red Wine Exploration: Investigating a Coherence Between Chemical Properties of the Wine and Wine Quality Rating](https://github.com/evanca/data-analysis_r_red-wine-exploration)
+<img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p6_thumbnail.jpg?raw=true"/>
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+### Android Development
 
-[Link](url) and ![Image](src)
-```
+- [Inventory](https://github.com/evanca/ABND_P8-P9_Inventory)
+- [Riga Tour Guide](https://github.com/evanca/ABND_P5_Riga-Tour-Guide)
+- [News Feed](https://github.com/evanca/ABND_P6-P7_News-Feed)
+- [Quiz](https://github.com/evanca/ABND_P3)
+- [Score Keeper](https://github.com/evanca/ABND_P2)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
+### Publications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evanca/evanca.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Create Your Very First App in Flutter - a Tutorial for Complete Beginners](https://medium.com/@evanca/create-your-very-first-app-in-flutter-a-tutorial-for-complete-beginners-3bb5eeaca520)
+- [Android Tutorial for Beginners: Create a Pie Chart With XML](https://medium.com/@evanca/android-tutorial-for-beginners-create-a-pie-chart-with-xml-36e67dabe67f)
