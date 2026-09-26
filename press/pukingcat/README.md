@@ -35,3 +35,17 @@ Pages rebuilds. Keep filenames lowercase with no spaces.
 These existing sheets were copied without image changes on 2026-09-26. The additional
 notes also reuse `22-made-for-foldables.png`, already hosted above. Static sheets
 show appearance and layout; they do not establish animation smoothness or frame rate.
+
+## Focused judge collages (2026-09-26)
+
+The owner requested new compositions rather than reuse of the general UX sheets.
+
+| File | Contents |
+| --- | --- |
+| `judges-ad-dialogs.png` | Coin-doubling offer, extra-shot offer, Earn Puke Coins guide, reward confirmation. |
+| `judges-galaxy-flex.png` | Fold7 and Flip7 Flex Mode, from release-emulator captures. |
+| `judges-costumes-palettes.png` | Costume shop and slime palette previews side by side. |
+
+Sources and reproducible HTML/CSS layout: `puking_cat/shipaton/judge_sheets/`.
+Screenshot text and artwork are preserved; these are new layouts of existing captures.
+Previous image files remain available for existing links.
