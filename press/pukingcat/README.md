@@ -50,3 +50,4 @@ The owner requested new compositions rather than reuse of the general UX sheets.
 Sources and reproducible HTML/CSS layout: `puking_cat/shipaton/judge_sheets/`.
 Screenshot text and artwork are preserved; these are new layouts of existing captures.
 Previous image files remain available for existing links.
+| `seasonal-pack-haunted-mansion.png` | Seasonal levels showcase: the Haunted Mansion building for October, its grand foyer, and the three slime palettes that ship with it (Pumpkin guts, Ghost goo, Witch brew). | `puking_cat` repo, `docs/ui_kit/seasonal_pack_showcase_haunted_mansion.png` |
