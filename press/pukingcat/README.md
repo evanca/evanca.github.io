@@ -25,6 +25,7 @@ Pages rebuilds. Keep filenames lowercase with no spaces.
 | `noise-new-customers-aug-sep.png` | RevenueCat Charts, New Customers, daily, 15 Aug – 15 Sep 2026, with the `Noise: Maximum views` annotation over 29 Aug – 1 Sep. | RevenueCat console screenshot, also in `puking_cat` at `shipaton/evidence/noise/2026-09-22-new-customers-aug15-sep15.png` |
 | `shop-wardrobe-japanese.png` | The costume shop in Japanese on v2.8.0: candy title as ショップ in live layered text, きがえ / ゲロカラー tabs, costume names and 所持 / 使用中 buttons, over the Halloween shop art. Evidence that headings and UI translate without being redrawn. | `puking_cat` repo, `docs/launch/screenshots/2_8_0/ja/shipaton/07_shop_wardrobe.png` |
 | `farm-season-comparison.png` | The same farm building in summer and autumn: identical architecture, with sky, foliage and props changed for the season. | `puking_cat` repo, `docs/ui_kit/farm_season_comparison.png` |
+| `seasonal-pack-haunted-mansion.png` | Seasonal levels showcase: the Haunted Mansion building for October, its grand foyer, and the three slime palettes that ship with it (Pumpkin guts, Ghost goo, Witch brew). | `puking_cat` repo, `docs/ui_kit/seasonal_pack_showcase_haunted_mansion.png` |
 
 ## Judge sheets — REMOVED 2026-09-28
 
