@@ -26,28 +26,13 @@ Pages rebuilds. Keep filenames lowercase with no spaces.
 | `shop-wardrobe-japanese.png` | The costume shop in Japanese on v2.8.0: candy title as ショップ in live layered text, きがえ / ゲロカラー tabs, costume names and 所持 / 使用中 buttons, over the Halloween shop art. Evidence that headings and UI translate without being redrawn. | `puking_cat` repo, `docs/launch/screenshots/2_8_0/ja/shipaton/07_shop_wardrobe.png` |
 | `farm-season-comparison.png` | The same farm building in summer and autumn: identical architecture, with sky, foliage and props changed for the season. | `puking_cat` repo, `docs/ui_kit/farm_season_comparison.png` |
 
-## Additional judge notes
+## Judge sheets — REMOVED 2026-09-28
 
-| File | What it shows | Source |
-| --- | --- | --- |
-| `16-dialogs.png` | Four rendered dialog states: standard win/fail and their optional rewarded-ad offers, together for comparison. | `puking_cat` repo, `shipaton/video/ux/16-dialogs.png` |
-| `14-inside-the-shop.png` | Slime palette previews and themed particles, a costume purchase confirmation, and the shop button states. | `puking_cat` repo, `shipaton/video/ux/14-inside-the-shop.png` |
-
-These existing sheets were copied without image changes on 2026-09-26. The additional
-notes also reuse `22-made-for-foldables.png`, already hosted above. Static sheets
-show appearance and layout; they do not establish animation smoothness or frame rate.
-
-## Focused judge collages (2026-09-26)
-
-The owner requested new compositions rather than reuse of the general UX sheets.
-
-| File | Contents |
-| --- | --- |
-| `judges-ad-dialogs.png` | Coin-doubling offer, extra-shot offer, Earn Puke Coins guide, reward confirmation. |
-| `judges-galaxy-flex.png` | Fold7 and Flip7 Flex Mode, from release-emulator captures. |
-| `judges-costumes-palettes.png` | Costume shop and slime palette previews side by side. |
-
-Sources and reproducible HTML/CSS layout: `puking_cat/shipaton/judge_sheets/`.
-Screenshot text and artwork are preserved; these are new layouts of existing captures.
-Previous image files remain available for existing links.
-| `seasonal-pack-haunted-mansion.png` | Seasonal levels showcase: the Haunted Mansion building for October, its grand foyer, and the three slime palettes that ship with it (Pumpkin guts, Ghost goo, Witch brew). | `puking_cat` repo, `docs/ui_kit/seasonal_pack_showcase_haunted_mansion.png` |
+The five composite sheets hosted here on 2026-09-26 (`judges-ad-dialogs.png`,
+`judges-galaxy-flex.png`, `judges-costumes-palettes.png`, `16-dialogs.png`,
+`14-inside-the-shop.png`) were deleted at the owner’s instruction: the Devpost judges’ note
+now points at the images inside the project story instead, so nothing referenced them and
+their URLs were dead weight. **Those five URLs now 404.** The source art and the
+regeneration script are untouched in the `puking_cat` repo under `shipaton/judge_sheets/`
+and `shipaton/video/ux/`, so any of them can be re-hosted by copying the file back here.
+`22-made-for-foldables.png` was in that set’s notes but is NOT removed — the story embeds it.
