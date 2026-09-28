@@ -22,16 +22,18 @@ Pages rebuilds. Keep filenames lowercase with no spaces.
 | `22-made-for-foldables.png` | Made for foldables card: the level filling a Fold panel, the half-folded Flex Mode layout with the room at the hinge and controls below it, and a Flip cover-screen wallpaper (not cover-screen gameplay). | `puking_cat` repo, `shipaton/video/ux/` |
 | `02-anatomy-of-a-shot.png` | Anatomy of a shot: the kitchen HUD with nine callouts — home, Puke Coins, angle dial, room plaque, pause/sound, shots left, launch button, the cat, the splat. | `puking_cat` repo, `shipaton/video/ux/` |
 | `06-gameplay-ui.webp` | Gameplay UI sheet: the cat-muzzle launch button in its idle, pressed, angle-locked and disabled states, plus the angle dial, power meter, cat-head shot counters, stars and coins. All vector. | `puking_cat` repo, `shipaton/video/ux/` |
-| `noise-new-customers-aug-sep.png` | RevenueCat Charts, New Customers, daily, 15 Aug – 15 Sep 2026, with the `Noise: Maximum views` annotation over 29 Aug – 1 Sep. | RevenueCat console screenshot, also in `puking_cat` at `shipaton/evidence/noise/2026-09-22-new-customers-aug15-sep15.png` |
 | `shop-wardrobe-japanese.png` | The costume shop in Japanese on v2.8.0: candy title as ショップ in live layered text, きがえ / ゲロカラー tabs, costume names and 所持 / 使用中 buttons, over the Halloween shop art. Evidence that headings and UI translate without being redrawn. | `puking_cat` repo, `docs/launch/screenshots/2_8_0/ja/shipaton/07_shop_wardrobe.png` |
 | `farm-season-comparison.png` | The same farm building in summer and autumn: identical architecture, with sky, foliage and props changed for the season. | `puking_cat` repo, `docs/ui_kit/farm_season_comparison.png` |
 | `seasonal-pack-haunted-mansion.png` | Seasonal levels showcase: the Haunted Mansion building for October, its grand foyer, and the three slime palettes that ship with it (Pumpkin guts, Ghost goo, Witch brew). | `puking_cat` repo, `docs/ui_kit/seasonal_pack_showcase_haunted_mansion.png` |
 
-## Judge sheets — REMOVED 2026-09-28
+## Removed 2026-09-28
 
 The five composite sheets hosted here on 2026-09-26 (`judges-ad-dialogs.png`,
 `judges-galaxy-flex.png`, `judges-costumes-palettes.png`, `16-dialogs.png`,
-`14-inside-the-shop.png`) were deleted at the owner’s instruction: the Devpost judges’ note
+`14-inside-the-shop.png`) were deleted at the owner’s instruction, along with
+`noise-new-customers-aug-sep.png` (the Noise install chart, dropped from the story when that
+category was not entered; its evidence copy stays in `puking_cat` at
+`shipaton/evidence/noise/2026-09-22-new-customers-aug15-sep15.png`): the Devpost judges’ note
 now points at the images inside the project story instead, so nothing referenced them and
 their URLs were dead weight. **Those five URLs now 404.** The source art and the
 regeneration script are untouched in the `puking_cat` repo under `shipaton/judge_sheets/`
